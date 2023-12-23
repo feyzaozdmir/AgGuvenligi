@@ -1,0 +1,10 @@
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\bin\Debug\şifreleme.exe.config
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\bin\Debug\şifreleme.exe
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\bin\Debug\şifreleme.pdb
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.csproj.AssemblyReference.cache
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.Form1.resources
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.Properties.Resources.resources
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.csproj.GenerateResource.cache
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.csproj.CoreCompileInputs.cache
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.exe
+C:\Users\feyza\Desktop\AG Projesi\şifreleme\obj\Debug\şifreleme.pdb
